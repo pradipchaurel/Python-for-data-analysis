@@ -1,6 +1,8 @@
 # Python-for-data-analysis
 This repository contains tutorials and examples of Python libraries (NumPy and Pandas) for data analysis.
 
+<img width="317" alt="pandas" src="https://github.com/pradipchaurel/Python-for-data-analysis/assets/94631819/27feef26-ba69-44c8-b7cb-6e461d2c3264">
+
 Pandas is a powerful Python library used for data manipulation and analysis. It provides data structures and functions to manipulate large datasets efficiently.
 
 
